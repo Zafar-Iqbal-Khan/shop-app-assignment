@@ -134,7 +134,7 @@ class HomePage extends StatelessWidget {
                                             ),
                                           ),
                                           SizedBox(
-                                            height: index % 2 == 0 ? 10 : 30,
+                                            height: index % 2 == 0 ? 4 : 30,
                                           ),
                                           Container(
                                             alignment: Alignment.bottomRight,
